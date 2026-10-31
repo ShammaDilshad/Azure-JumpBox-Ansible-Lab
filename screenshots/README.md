@@ -1,0 +1,1 @@
+Screenshots 01–11 were provided from the project owner’s Azure portal. Do not include private key contents or account secrets. Terminal execution screenshots were not provided; no fabricated output screenshots are included.
